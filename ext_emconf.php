@@ -9,11 +9,11 @@ $EM_CONF[$_EXTKEY] = [
     'author_email' => 'extensions@macopedia.com',
     'category' => 'fe',
     'internal' => '',
-    'version' => '2.0.0',
+    'version' => '13.0.0',
     'constraints' => [
         'depends' => [
-            'typo3' => '10.0.0-12.5.99',
-            'frontend' => '10.0.0-12.5.99',
+            'typo3' => '12.0.0-13.5.99',
+            'frontend' => '12.0.0-13.5.99',
         ],
         'conflicts' => [],
         'suggests' => [
