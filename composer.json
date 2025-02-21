@@ -31,8 +31,8 @@
     "typo3/cms-core": "^12.0 || ^13.0"
   },
   "suggest": {
-  	"friendsoftypo3/headless": "^2.0 || ^4.0",
-    "georgringer/news": "^11.0 || ^12.0"
+  	"friendsoftypo3/headless": "^2.0 || ^4",
+    "georgringer/news": "^12.0"
   },
   "extra": {
      "typo3/cms": {
